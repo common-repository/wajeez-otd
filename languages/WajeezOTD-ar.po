@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wajeeztod\n"
+"POT-Creation-Date: 2013-11-16 12:40+0200\n"
+"PO-Revision-Date: 2013-11-16 12:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: F:\\xampp\\htdocs\\abo_anas\\wp-content\\plugins"
+"\\wajeez-otd\n"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:45
+msgid "Show posts on this day in past years."
+msgstr "عرض التدوينات التي نشرت في مثل هذا التاريخ من السنوات الماضية"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:56
+msgid "Settings"
+msgstr "إعدادات"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:87
+msgid "Wajeez OTD was installed successfully."
+msgstr "تم تثبت الإضافة بنجاح."
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:87
+msgid ""
+"Please go to the Appearance tab to add the Wajeez OTD widget to your blog."
+msgstr ""
+"الآن الرجاء الضغط على رابط المظهر ثم المربعات الجانبية ثم سحب الإضافة إلي "
+"المكان المراد في القائمة الجانبية الرئيسية."
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:161
+msgid "Sorry, no posts were found on today's date"
+msgstr "لا يوجد تدوينات منشورة في مثل هذا اليوم"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:166
+msgid "Add this "
+msgstr "احصل على هذه"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:166
+msgid "Plugin "
+msgstr "الإضافة"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:166
+msgid "to your blog. "
+msgstr "في مدونتك."
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:180
+msgid "Title"
+msgstr "العنوان"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:197
+msgid "Wajeez OTD Settings"
+msgstr "إعدادات Wajeez OTD "
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:201
+msgid "Post Settings"
+msgstr "إعدادات التدوينات"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:207
+msgid "Number of posts to display:"
+msgstr "عدد التدوينات التي سيتم عرضها"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:212
+msgid "Fill in missing posts with near matches"
+msgstr "تعويض التدوينات الناقصة بتدوينات أخرى قريبة"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:216
+msgid "Show password protected posts"
+msgstr "عرض التدوينات المحمية بكلمة مرور"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:223
+msgid "Number of years to search: (leave blank for unlimited)"
+msgstr ""
+"عدد السنوات التي سيتم البحث فيها: (في حال أردته عدد غير منتهي فاترك هذا "
+"الحقل فارغاً)"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:226
+msgid "Display Settings"
+msgstr "إعدادات العرض"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:229
+msgid "Show post thumbnails"
+msgstr "عرض الصور المصغرة للتدوينات"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:236
+msgid "Character limit for post titles: (leave blank for unlimited)"
+msgstr ""
+"قص عنوان التدوينات بعدد معين من الأحرف: (في حال اردت عرض العنوان كاملاً فاترك "
+"هذا الخيار فارغاً)"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:241
+msgid "Show plugin link"
+msgstr "عرض رابط الإضافة"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:266
+msgid "Support the development"
+msgstr "إدعم التطوير بالتبرع لنا"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:275
+msgid "Enter amount in USD:"
+msgstr "أدخل المبلغ بالدولار الأمريكي:"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:286
+msgid "Follow us"
+msgstr "تابعنا على"
+
+#: F:\xampp\htdocs\abo_anas\wp-content\plugins\wajeez-otd/wajeezotd.php:294
+msgid "Latest Posts by "
+msgstr "أخر التدوينات من مدونة "

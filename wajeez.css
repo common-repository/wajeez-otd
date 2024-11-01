@@ -1,0 +1,26 @@
+.wajeez-thumb {
+	float: left;
+}
+.wajeez-thumb img {
+	margin: 0 0.5em 0.5em 0;
+}
+.wajeez-meta {
+	font-size: smaller;
+}
+.wajeez-otd {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+.wajeez-otd li {
+	overflow: hidden;
+	lit-style: none;
+}
+/*direction: ltr;text-align: left;*/
+#wajeez_support_box{width: 250px;border: solid 1px;float: right;margin: 28px;}
+.wajeez_support_title{text-align: center;background-color: #CAD0FD;font-weight: bold;padding: 2px;color:#5F5E66;}
+#wajeez_latest_posts{padding-left: 4px;}
+.wajeez_box_content{text-align: center;}
+.wajeezotd-settings{float: left;}
+#wajeezotd-facebook{width: 155px;height: 64px;}
+
